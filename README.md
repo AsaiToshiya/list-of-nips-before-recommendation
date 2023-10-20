@@ -62,4 +62,4 @@
 
 ## License
 
-CC0 1.0. See `LICENSE.txt`.
+CC0 1.0. See `LICENSE`.
