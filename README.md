@@ -16,7 +16,7 @@
 - [NIP-35: Member List](https://github.com/arthurfranca/nips/blob/nip-35/35.md) - [PR](https://github.com/nostr-protocol/nips/pull/607)
 - [NIP-37: Language Tag](https://github.com/alexgleason/nips/blob/lang/37.md) - [PR](https://github.com/nostr-protocol/nips/pull/632)
 - [NIP-37: Methods for dealing with lost or compromised keys](https://github.com/nostr-protocol/nips/blob/key-invalidation-and-migration/37.md) - [PR](https://github.com/nostr-protocol/nips/pull/637)
-- [NIP-41: Identity rotation](https://github.com/nostr-protocol/nips/blob/pf7z-nip41/41.md) - [PR](https://github.com/nostr-protocol/nips/pull/829)
+- [NIP-41: Key migration](https://github.com/nostr-protocol/nips/blob/pf7z-nip41/41.md) - [PR](https://github.com/nostr-protocol/nips/pull/829)
 - [NIP-43: Fast Authentication](https://github.com/arthurfranca/nips/blob/nip-43/43.md) - [PR](https://github.com/nostr-protocol/nips/pull/571)
 - [NIP-44: Encrypted Payloads (Versioned)](https://github.com/paulmillr/nips/blob/NIP-44/44.md) - [PR](https://github.com/nostr-protocol/nips/pull/746)
 - [NIP-54: Inline Resource Metadata](https://github.com/arthurfranca/nips/blob/inline-resource-metadata/54.md) - [PR](https://github.com/nostr-protocol/nips/pull/521)
