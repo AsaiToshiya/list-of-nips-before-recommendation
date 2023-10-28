@@ -1,6 +1,6 @@
 [日本語](http://asaitoshiya.com/nostr-nips-before-recommendation/)
 
-# List of NIPs Before Recommendation
+# List of NIPs Before the Recommendation
 
 
 ## List
