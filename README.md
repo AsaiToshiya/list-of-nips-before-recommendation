@@ -1,3 +1,7 @@
+**This list is useless.**
+
+---
+
 [日本語](http://asaitoshiya.com/nostr-nips-before-recommendation/)
 
 # List of NIPs Before the Recommendation
